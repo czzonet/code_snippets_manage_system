@@ -1,0 +1,2 @@
+# code_snippets_manage_system
+代码片段管理系统 用于记录和管理用户日常开发所用的代码片段 便于复制和完善
